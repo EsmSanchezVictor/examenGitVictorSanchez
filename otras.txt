@@ -1,0 +1,103 @@
+ 
+1. ¿El comando git add, lo ejecutamos antes o después de hacer el commit?.
+
+Antes
+ 
+ 
+2. ¿Con cual comando podemos ver las etiquetas (tags) de un repositorio?.
+*
+
+git tag 
+ 
+
+ 
+3. ¿Qué función tiene el mensaje que incluimos en cada commit?
+*
+
+
+Proporciona información del commit,
+Describe los cambios que registra el commit,
+Explica las mejoras o soluciones que se han implementado,
+ 
+ 
+4. Si quiero actualizar la rama en la que estoy trabajando con la rama principal, ¿qué comando debo utilizar?
+*
+0/4
+git merge
+ 
+git rebase
+cualquiera
+ninguno
+Respuesta correcta
+git rebase
+ 
+5. Si quiero incluir en la rama principal lo que estuve desarrollando en otra rama, ¿qué comando debo utilizar?
+*
+0/4
+git rebase
+ 
+git merge
+cualquiera
+niguno
+Respuesta correcta
+git merge
+ 
+6. Si quiero reportar errores, sugerir cambios o características, ¿Qué función de GitHub debo utilizar?
+*
+4/4
+El foro de debates (discussions?
+Las incidencias (issues)
+ 
+las solicitudes de extracción (pull request)
+La documentación del proyecto (wiki)
+ 
+7. ¿Que función debemos activar en GitHub para utilizar un repositorio como página web?
+*
+4/4
+GitHub projects
+GitHub webs
+GitHub pages
+ 
+GitHub wiki
+ 
+8. Marca todos los pasos que debo seguir para aportar con mi trabajo a un proyecto al que  no me han agregado como colaborador.
+*
+0/4
+Realizar mis aportes
+Clonar el repositorio bifurcado.
+ 
+iniciar una pull request
+ 
+Enviar una pull request
+ 
+Combinar la rama en la que trabajé con la rama principal
+clonar el repositorio del proyecto
+Cambiarme a la nueva rama.
+ 
+bifurcar el repositorio del proyecto
+ 
+escribir por correo a los responsables del proyecto
+Explicar las modificaciones que hice y por qué.
+Crear una nueva rama
+ 
+Crear una incidencia solicitando que me agreguen
+ 
+subir los cambios a GitHub
+ 
+Darle seguimiento a la pull request hasta que sea combinada o rechazada.
+ 
+Hacer los commits correspondientes
+ 
+Respuesta correcta
+bifurcar el repositorio del proyecto
+Clonar el repositorio bifurcado.
+Crear una nueva rama
+Realizar mis aportes
+Cambiarme a la nueva rama.
+Hacer los commits correspondientes
+subir los cambios a GitHub
+Enviar una pull request
+iniciar una pull request
+Explicar las modificaciones que hice y por qué.
+Darle seguimiento a la pull request hasta que sea combinada o rechazada.
+
